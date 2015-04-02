@@ -1,7 +1,7 @@
 ---
 title: Články
 layout: page
-description: Články o táborské politice s nádechem pirátkých myšlenek
+description: Akce v Ostravském pirátském centru
 keywords: články, tábor, politika, pohled
 ---
 
