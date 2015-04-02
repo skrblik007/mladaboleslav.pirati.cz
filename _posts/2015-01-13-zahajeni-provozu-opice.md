@@ -2,7 +2,7 @@
 category:  AKCE
 tags: 
 title: Zahájení provozu OPICE
-splash: static/media/opice1.jpg
+splash: "/static/media/opice1.jpg"
 description: Dnes jsme poprvé schůzovali v naší nové základně, kterou je Ostravské PIrátské CEntrum, neboli OPICE.
 layout: post
 ---
