@@ -1,5 +1,5 @@
 ---
-category:  AKCE
+category: AKCE
 tags: 
 title: Zahájení provozu OPICE
 splash: "/static/media/opice1.jpg"
