@@ -16,7 +16,7 @@ keywords: piráti, tábor, organizace, transparence, politika
 				Zaujaly tě naše akce? Přijď do OPICE!
 			</p>
 
-			<a href="/lide/" class="primary button test">Kde nás najdeš →</a>
+			<a href="/kontakt/" class="primary button test">Kde nás najdeš →</a>
 
 		</div>
 
