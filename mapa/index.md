@@ -4,8 +4,6 @@ layout: page
 description: Mapa ostravského pirátského centra
 keywords: mapa, politika, ostrava, piráti, opice
 ---
-##Kde nás najdete?
-
 Ostravské pirátské centrum OPICE najdete na adrese:  
 Jugoslávská 3038/40A  
 700 30 Ostrava - Jih
