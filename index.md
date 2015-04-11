@@ -10,13 +10,13 @@ keywords: piráti, tábor, organizace, transparence, politika
 	<div class="row">
 		<div class="small-8 columns">
 			<p>
-				Chceš se setkat s Piráty z Moravskoslezského kraje?<br/>
+				Chceš se setkat s Piráty na Slovensku?<br/>
 				Je ti blízký pirátský program / ideje?<br/>
 				Máš kuráž a taky chceš transparentnější a modernější město, kraj a stát?<br/>
-				Zaujaly tě naše akce? Přijď do OPICE!
+				Zaujaly tě naše akce? Přidej se k nám!
 			</p>
 
-			<a href="/kontakt/" class="primary button test">Kde nás najdeš →</a>
+			<a href="/kontakt/" class="primary button test">Jak nás kontaktovat →</a>
 
 		</div>
 

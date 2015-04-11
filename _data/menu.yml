@@ -1,15 +1,15 @@
 -
-  title: Akce a programy
-  url: /akce/
-  icon: fa-calendar
+  title: Lidé
+  url: /lide/
+  icon: fa-users
 -
-  title: Foto
-  url: /foto/
-  icon: fa-photo
+  title: O nás
+  url: /o-nas/
+  icon: fa-paperclip
 -
-  title: Kde nás najdete
-  url: /kontakt/
-  icon: fa-map-marker
+  title: Články
+  url: /clanky/
+  icon: fa-newspaper-o
 
 -
   title: Pirati.cz

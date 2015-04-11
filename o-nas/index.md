@@ -8,30 +8,16 @@ keywords: program, transparence, radnice, svobodný software, demokracie
 
 ## Z historie
 
-Pirátská buňka v Táboře se zformovala po serii demonstrací [pirátské strany](http://www.pirati.cz)
-proti smlouvě [ACTA](http://cs.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement).
-Momentálně je [nás](/lide/) málo a uvítali bychom posily.
-
-V roce 2014 začíná spolupráce s lokálním hnutím [Jinak!](http://www.taborjinak.cz/).
-Je to uskupení nestraníků a zelených, s nimiž nacházíme širokou programovou shodu.
-My v jeho rámci tlačíme na pirátská témata.
 
 
 ## Programové teze
 
 ### Transparentnost
 
-Všechno na internetu! Přehledně zaškatulkované a strojově čitelné.
-
-> ... politikům se nesmí věřit, to lze jedině Bohu, ale je třeba je důsledně kontrolovat,
-> nezáleží na tom, jestli je to prezident, náměstek nebo poradce či podpodporadce.
-> [Karel Kryl](http://www.kryl.kat.cz/citaty.htm)
-
-Piráti vždy bránili právo na svobodné šíření informace.
-Pro demokratické principy jsou informace o správě věcí veřejných naprosto zásadní.
 
 
-### Radnice 21.století
+
+### Stát 21.století
 
 - Masivní použití IT tehchnologií.
 - Vše musí být možné vyřídit přes internet!

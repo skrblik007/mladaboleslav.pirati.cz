@@ -1,14 +1,14 @@
-title: Ostravské pirátské centrum OPICE
-baseurl: http://opice.pirati.cz
-default_locale: "cs"
+title: Slovenská pirátská strana
+baseurl: 
+default_locale: "sk"
 permalink: pretty
 markdown: kramdown
-facebookurl: https://www.facebook.com/cpsmsk 
+facebookurl: https://www.facebook.com/piratskastrana
 gems:
   - jekyll-sitemap
   - i18n
 paginate: 7
-paginate_path: "/akce/:num/"
+paginate_path: "/clanky/:num/"
 
 
 # see. best practices DOs and DONTs for details about following section

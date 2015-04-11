@@ -4,3 +4,9 @@
 [submodule "_includes"]
 	path = _includes
 	url = https://github.com/pirati-web/partials
+[submodule "images"]
+	path = images
+	url = https://github.com/pirati-web/images.git
+[submodule "_data/people"]
+	path = _data/people
+	url = https://github.com/pirati-web/people.git
