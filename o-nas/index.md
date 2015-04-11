@@ -1,11 +1,9 @@
 ---
 title: O nás
 layout: page
-description: Základní programové teze a něco z historie táborských pirátů.
-keywords: program, transparence, radnice, svobodný software, demokracie
+description: Základní programové teze a něco z historie slovenských pirátů.
+keywords: program, transparence, slovensko, svobodný software, demokracie
 ---
-
-
 ## Z historie
 
 
@@ -13,7 +11,7 @@ keywords: program, transparence, radnice, svobodný software, demokracie
 ## Programové teze
 
 ### Transparentnost
-
+- Budeme mít transparentní účet u FIO Banky
 
 
 
