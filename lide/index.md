@@ -2,8 +2,8 @@
 title: Lidé
 layout: page
 style: portrets
-description: Základní informace o jednotlivých slovenských pirátech. Přidáš se k nám?
-keywords: lide, piráti, slovensko, podpora
+description: Základní informace o jednotlivých pirátech. Přidáš se k nám?
+keywords: lide, piráti, podpora
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 section: blog
-description: Výchozí stránka táborské pirátské buňky s nejnovějšími články a základním rozcestníkem.
-keywords: piráti, tábor, organizace, transparence, politika
+description: Výchozí stránka pirátské buňky s nejnovějšími články a základním rozcestníkem.
+keywords: piráti, organizace, transparence, politika
 ---
 
 
@@ -10,7 +10,7 @@ keywords: piráti, tábor, organizace, transparence, politika
 	<div class="row">
 		<div class="small-8 columns">
 			<p>
-				Chceš se setkat s Piráty na Slovensku?<br/>
+				Chceš se setkat s Piráty?<br/>
 				Je ti blízký pirátský program / ideje?<br/>
 				Máš kuráž a taky chceš transparentnější a modernější město, kraj a stát?<br/>
 				Zaujaly tě naše akce? Přidej se k nám!

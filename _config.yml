@@ -1,9 +1,9 @@
-title: Slovenská pirátská strana
+title: Piráti Praha 6
 baseurl: 
-default_locale: "sk"
+default_locale: "cs"
 permalink: pretty
 markdown: kramdown
-facebookurl: https://www.facebook.com/piratskastrana
+facebookurl: https://www.facebook.com/pages/Pir%C3%A1ti-Praha-6/623900784396150?fref=ts
 gems:
   - jekyll-sitemap
   - i18n
@@ -13,6 +13,6 @@ paginate_path: "/clanky/:num/"
 
 # see. best practices DOs and DONTs for details about following section
 # http://www.elegantthemes.com/blog/tips-tricks/best-practices-for-using-categories-and-tags-in-wordpress
-avail_tags: transparentnost, kultura, sport, web, ostrava
+avail_tags: transparentnost, kultura, sport, web, praha6
 avail_cats: AKCE, JEDNANI, CLANKY
 avail_filecats: SMLOUVY, ZAPISY, VYKRESY, GRAFIKA
