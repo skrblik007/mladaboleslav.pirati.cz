@@ -1,7 +1,7 @@
 ---
 layout: page
 section: blog
-description: Výchozí stránka pirátské buňky s nejnovějšími články a základním rozcestníkem.
+description: Výchozí stránka pirátské buňky v Mladé Boleslavi s nejnovějšími články a základním rozcestníkem.
 keywords: piráti, organizace, transparence, politika
 ---
 

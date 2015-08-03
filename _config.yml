@@ -1,9 +1,9 @@
-title: Oblast Piráti
+title: Piráti Mladá Boleslav
 baseurl: 
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown
-facebookurl:
+facebookurl: https://www.facebook.com/PiratiMB
 gems:
   - jekyll-sitemap
   - i18n

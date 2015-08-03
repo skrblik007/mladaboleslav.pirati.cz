@@ -12,6 +12,12 @@
   icon: fa-newspaper-o
 
 -
+  title: Střední Čechy
+  url: http://strednicechy.pirati.cz
+  icon: fa-play
+  target: _blank
+
+-
   title: Pirati.cz
   url: http://www.pirati.cz
   icon: fa-forward
